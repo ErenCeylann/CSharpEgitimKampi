@@ -3,7 +3,7 @@ Bu Projede Murat Yücedağ'ın C# Eğitim Kampı ile tamamladığım 8 derslik p
 
 📌 Proje 1: İlk Adım Consonla Yazı Yazma
 Bu projede ekrana yazı yazma işlemini öğrendim.C#'ın nasıl çalıştığını öğrendim.
-
+<hr>
 📌 Proje 2: Veri Türleri Ve Klavyeden Veri Girişi
 Bu Projede farklı veri türlerini ve bunları nasıl kullanabileceğimi öğrendim.Bunlara ek olarak klavyeden veri almayı öğrendim
 
